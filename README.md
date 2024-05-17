@@ -1,3 +1,3 @@
-Our Machine Learning Project:
+# Machine Learning Project
 
 Student Performance Prediction

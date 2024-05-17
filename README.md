@@ -1,2 +1,3 @@
-Our Machine Learning Project
+Our Machine Learning Project:
+
 Student Performance Prediction
